@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codeigniter CRUD Generator 1.3 by [harviacode.com](http://harviacode.com)#
 
 ![harviacode crud generator 1 3.jpg](https://bitbucket.org/repo/587Kzp/images/2127696049-harviacode%20crud%20generator%201%203.jpg)
@@ -48,3 +49,7 @@ V.1.1 - 21 May 2015
 * Add client side datatables
 
 **Copyright 2015 [harviacode.com](http://harviacode.com)**
+=======
+# racode
+tools yang mempermudah develoiper dalam proses development
+>>>>>>> eb6258274db7dcdd8ffe14501f5f3ec58fec6dd7
