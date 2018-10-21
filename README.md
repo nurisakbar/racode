@@ -21,7 +21,7 @@ Dalam waktu dekat saya akan merilis beberapa tutorial membuat aplikasi dengan ra
 
 # User Login
 Jika anda mengalami masalah login, gunakan email dan password default
-> admin@admin.com
+> email : admin@admin.com
 >
-> password
+> password: password
 
